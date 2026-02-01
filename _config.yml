@@ -1,3 +1,4 @@
+remote_theme: just-the-docs/just-the-docs
 title: The Covenant Renewed
 description: A Twenty-Year Framework for American Fiscal Restoration
-theme: jekyll-theme-architect
+color_scheme: light
