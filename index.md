@@ -1,20 +1,7 @@
-markdown---
-layout: splash
-header:
-  overlay_image: /assets/images/cover.jpg
-  overlay_filter: 0.5
-title: "THE COVENANT RENEWED"
-excerpt: "From Dependency to Prosperity"
----
-
-
-# THE COVENANT RENEWED
-
+markdown# THE COVENANT RENEWED
 ## From Dependency to Prosperity
 
 *A Twenty-Year Framework for American Fiscal Restoration*
-
-**Prepared for Policy Consideration | January 2026**
 
 ---
 
