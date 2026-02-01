@@ -2,3 +2,7 @@ remote_theme: just-the-docs/just-the-docs
 title: The Covenant Renewed
 description: A Twenty-Year Framework for American Fiscal Restoration
 color_scheme: light
+
+# Optional - makes it look better
+aux_links:
+  "Download PDF": "/covenant_renewed_final.pdf"
