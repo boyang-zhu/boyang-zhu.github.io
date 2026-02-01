@@ -1,7 +1,11 @@
-remote_theme: just-the-docs/just-the-docs
+remote_theme: mmistakes/minimal-mistakes
 title: The Covenant Renewed
 description: A Twenty-Year Framework for American Fiscal Restoration
-color_scheme: light
+
+minimal_mistakes_skin: "default"
+
+author:
+  name: "Policy Proposal"
 
 # Optional - makes it look better
 aux_links:
