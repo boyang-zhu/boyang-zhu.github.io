@@ -1,4 +1,4 @@
-THE COVENANT RENEWED
+####THE COVENANT RENEWED
 
 ## From Dependency to Prosperity
 
