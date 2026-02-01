@@ -1,12 +1,3 @@
-remote_theme: mmistakes/minimal-mistakes
-title: The Covenant Renewed
+yamltitle: The Covenant Renewed
 description: A Twenty-Year Framework for American Fiscal Restoration
-
-minimal_mistakes_skin: "default"
-
-author:
-  name: "Policy Proposal"
-
-# Optional - makes it look better
-aux_links:
-  "Download PDF": "/covenant_renewed_final.pdf"
+theme: jekyll-theme-slate
